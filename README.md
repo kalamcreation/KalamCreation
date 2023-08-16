@@ -18,11 +18,11 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/kalamcreation)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 😂 Hire Me
+<img src="[https://www.fiverr.com/kalam_creation]" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kalamcreation&icon=0&color=0)](https://visitcount.itsvg.in)
