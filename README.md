@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on Software Engineering || IT Solution.<br>👬I'm looking to collaborate on PROBLEM-SOLVING-related DATA ANALYSIS.<br>🌱I'm currently learning JavaScript tools<br>⚡Fun Fact - I am lazy but hard worker 🥰<br><br>
+🔭I'm currently working on SOFTWARE ENGINEERING || IT SOLUTION.<br>👬I'm looking to collaborate on PROBLEM-SOLVING-related DATA ANALYSIS.<br>🌱I'm currently learning JAVASCRIPT <br>⚡Fun Fact - I am lazy but hard worker 🥰<br><br>
 
 
 ## 🌐 Socials:
